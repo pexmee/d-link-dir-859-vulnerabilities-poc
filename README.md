@@ -1,4 +1,4 @@
-#  POC: D-Link DIR-859 Vulnerabilities; Denial of Service, Unauthenticated Information Disclosure and Path Traversal 
+#  POC: D-Link DIR-859 Vulnerabilities: Denial of Service, Unauthenticated Information Disclosure and Path Traversal 
 This repository contains proof of concepts for a Denial of Service vulnerability, a Path Traversal vulnerability and an Information Disclosure vulnerability in D-Link DIR-859. 
 
 These vulnerabilities are in regard to the device D-Link DIR-859 with firmware version 1.04, but is suspected to be vulnerable for all firmware versions below v1.07b03_beta, and possibly other routers with firmwares using the AUTHORIZED_GROUP global variable in a similar manner. 
